@@ -180,11 +180,17 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c14185b26acbaf6",
+  "active": "2b7c091229b0de0d",
   "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "presentations/README_生成PPT_熊怡嘉.md",
+    "presentations/generate_presentation.py",
+    "presentations",
+    "~$测试.md",
     "测试.md"
   ]
 }
